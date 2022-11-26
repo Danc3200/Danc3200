@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danc3200
+- 👋 Hi, I’m Daniel Correa
 - 👀 I’m interested in robotics, robotic perception, computer vision and artificial intelligence.
 - 🌱 I’m currently learning to design and develop mobile robots using open-source robotics middleware (ROS2) and embedded systems.
 - 💞️ I’m looking to collaborate on projects based on developing different types of robots and artificial intelligence applied to robots.
